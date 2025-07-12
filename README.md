@@ -39,12 +39,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piris14&layout=compact&theme=radical" />
 </p>
 
----
-
-## 🐍 Actividad reciente
-
-<!-- Snake animation (requiere acción en tu repo para funcionar correctamente) -->
-![Snake animation](https://github.com/Piris14/Piris14/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
