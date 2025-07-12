@@ -8,9 +8,9 @@
 
 ## 👩‍💻 Sobre mí
 
-- 📊 Científica de datos con pasión por los algoritmos y la visualización.
-- 🤖 Apasionada por el análisis de datos, Python y la extracción de insights para la toma de decisiones.
-- 🛠️ Desarrollo soluciones con Python, Streamlit y Flask.
+- 📊 Soy una científica de datos en formación, entusiasta de la analítica y la visualización.
+- 🤖 Me apasiona el análisis de datos con Python y convertir la información en insights que ayuden a tomar mejores decisiones.
+- 🛠️ Desarrollo proyectos propios aplicando técnicas de machine learning y ciencia de datos.
 - 🎬 Portfolio: [Recomendador de películas]([https://github.com/Piris14](https://github.com/Piris14/Trabajo_final_Iris_Loic_Javi))
 - 🌱 Actualmente aprendiendo más sobre MLOps y deep learning.
 
