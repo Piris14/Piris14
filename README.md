@@ -12,6 +12,7 @@
 - 🤖 Me apasiona el análisis de datos con Python y convertir la información en insights que ayuden a tomar mejores decisiones.
 - 🛠️ Desarrollo proyectos propios aplicando técnicas de machine learning y ciencia de datos.
 - 🎬 Portfolio:
+  - [Predictor de retrasos en vuelos]([https://github.com/Piris14/Flight_Delay])  
   - [Predictor de quiebra de empresas]([https://github.com/Piris14/Quiebra_empresas])
   - [Recomendador de películas]([https://github.com/Piris14](https://github.com/Piris14/Trabajo_final_Iris_Loic_Javi))
 - 🌱 Actualmente aprendiendo más sobre MLOps y deep learning.
