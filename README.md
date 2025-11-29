@@ -1,8 +1,9 @@
 <h1 align="center">¡Hola! 👋 Soy Iris Muñoz</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=900&color=4CAF50&center=true&vCenter=true&width=460&lines=Data+Analyst+%7C+Data+Scientist;Machine+Learning+%7C+Python+%7C+EDA;Apasionada+por+la+IA+y+el+Análisis+de+Datos;Siempre+aprendiendo+🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Data+Scientist;Machine+Learning+%7C+Python;Siempre+aprendiendo+🌱" alt="Typing SVG" />
 </p>
+
 
 ---
 
